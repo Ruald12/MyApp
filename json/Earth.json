@@ -1,0 +1,9 @@
+{
+  "photos": [
+    {
+      
+      "img_src": "https://api.nasa.gov/planetary/earth/imagery?lon=-74.01&lat=40.69&date=2020-06-16&dim=0.15&api_key=DEMO_KEY"
+      
+    }
+  ]
+}
